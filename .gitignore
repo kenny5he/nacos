@@ -18,3 +18,5 @@ test/logs
 derby.log
 yarn.lock
 .flattened-pom.xml
+
+/consistency/src/main/java/com/alibaba/nacos/consistency/entity/
